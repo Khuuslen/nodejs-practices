@@ -1,0 +1,20 @@
+{
+    "name": "proj",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "chalk": "^4.1.2",
+        "chalknpm": "^1.0.1",
+        "create-react-app": "^4.0.3",
+        "install": "^0.13.0",
+        "request": "^2.88.2",
+        "yargs": "^17.1.1"
+    }
+}
